@@ -1,10 +1,9 @@
-Link:https://gulamshaikh.github.io/foodapp/
+Link: https://gulamshaikh.github.io/foodapp/
 
 # 🍕 Pizza Mania - Modern Food Delivery App
 
 A stunning, responsive pizza restaurant website built with React and enhanced with smooth GSAP animations. Features an interactive menu, dynamic gallery, and professional design optimized for the food delivery industry.
 
-![Pizza Mania Banner](./Food_APP/src/assets/img1.avif)
 
 ## ✨ Features
 
@@ -364,12 +363,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-**[Your Name]** - *Full Stack Developer*
+**[Gulam Shaikh]** - *Full Stack Developer*
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
+- 🐙 GitHub: [@GulamShaikh](https://github.com/GulamShaikh)
+- 📧 Email: gulamshaikh2455@gmail.com
 
 ## 📞 Support
 
